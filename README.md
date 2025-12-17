@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const rendy = {
+const Rendy = {
   pronouns: "he" | "him",
   location: "Indonesia 🇮🇩",
   currentFocus: "Building awesome things",
