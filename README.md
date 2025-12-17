@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## 🧑‍💻 About Me
+## 🌱 About Me
 
 ```javascript
 const Rendy = {
