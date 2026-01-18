@@ -16,7 +16,7 @@
 const Rendy = {
   pronouns: "he" | "him",
   location: "Indonesia 🇮🇩",
-  currentFocus: "Building awesome things",
+  currentFocus: "Turning coffee into code ☕➡️💻",
   funFact: "I debug with console.log() and I'm not ashamed 😄",
 
   dailyRoutine: ["☕ Coffee", "💻 Code", "🔁 Repeat"],
