@@ -46,6 +46,3 @@ const Rendy = {
       src="https://raw.githubusercontent.com/r3nddy/r3nddy/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=707070&height=3&section=header" width="100%"/>
