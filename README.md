@@ -10,18 +10,29 @@
   </a>
 </p>
 
+<br>
+
 ## 🌱 About Me
 
 ```javascript
 const Rendy = {
   pronouns: "he" | "him",
   location: "Indonesia 🇮🇩",
-  currentFocus: "Turning coffee into code ☕➡️💻",
+  currentFocus: "Turning coffee into code",
   funFact: "I debug with console.log() and I'm not ashamed 😄",
 
   dailyRoutine: ["☕ Coffee", "💻 Code", "🔁 Repeat"],
 };
 ```
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=707070&height=3&section=header" width="100%"/>
+
+<<img src="https://github-readme-activity-graph.vercel.app/graph?username=r3nddy&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" width="100%" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<br>
 
 ## 📊 Contribution Graph
 
@@ -35,3 +46,6 @@ const Rendy = {
       src="https://raw.githubusercontent.com/r3nddy/r3nddy/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=707070&height=3&section=header" width="100%"/>
