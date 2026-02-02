@@ -19,14 +19,6 @@ jobs:
             output/pacman-contribution-graph.svg
             output/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Generate Galaga graph
-        uses: pizofreude/github-action-grid-game@v1.1
-        with:
-          github_user_name: r3nddy
-          outputs: |
-            output/grid-game.svg
-            output/grid-game-dark.svg?palette=github-dark
-
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
