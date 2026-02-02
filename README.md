@@ -46,3 +46,14 @@ const Rendy = {
       src="https://raw.githubusercontent.com/r3nddy/r3nddy/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/r3nddy/r3nddy/output/grid-game-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/r3nddy/r3nddy/output/grid-game.svg">
+    <img alt="galaga contribution graph"
+      src="https://raw.githubusercontent.com/r3nddy/r3nddy/output/grid-game.svg">
+  </picture>
+</p>
