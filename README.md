@@ -14,6 +14,8 @@
 
 ## 🌱 About Me
 
+<br>
+
 ```javascript
 const Rendy = {
   pronouns: "he" | "him",
@@ -30,7 +32,32 @@ const Rendy = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=r3nddy&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" width="100%" />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<div class="rgb-line"></div>
+
+<style>
+.rgb-line {
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(90deg,
+    rgb(255,0,0),
+    rgb(255,127,0),
+    rgb(255,255,0),
+    rgb(0,255,0),
+    rgb(0,255,255),
+    rgb(0,0,255),
+    rgb(127,0,255),
+    rgb(255,0,255),
+    rgb(255,0,0)
+  );
+  background-size: 300% 100%;
+  animation: rgbShift 1.5s linear infinite;
+}
+
+@keyframes rgbShift {
+  0%   { background-position: 0% 0; }
+  100% { background-position: 300% 0; }
+}
+</style>
 
 <br>
 
