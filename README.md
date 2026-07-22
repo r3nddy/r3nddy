@@ -52,19 +52,6 @@ const Rendy = {
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/r3nddy/r3nddy/output-bubble/puzzle-bobble-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/r3nddy/r3nddy/output-bubble/puzzle-bobble-contribution-graph.svg">
-    <img alt="bubble shooter contribution graph"
-      src="https://raw.githubusercontent.com/r3nddy/r3nddy/output-bubble/puzzle-bobble-contribution-graph.svg">
-  </picture>
-</p>
-
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/r3nddy/r3nddy/output-pacman/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/r3nddy/r3nddy/output-pacman/pacman-contribution-graph.svg">
