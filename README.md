@@ -59,3 +59,5 @@ const Rendy = {
       src="https://raw.githubusercontent.com/r3nddy/r3nddy/output-pacman/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="4" />
